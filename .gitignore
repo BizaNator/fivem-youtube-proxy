@@ -1,0 +1,15 @@
+# Wrangler
+wrangler.toml
+.wrangler/
+node_modules/
+
+# Keep the example
+!wrangler.toml.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
